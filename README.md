@@ -40,6 +40,11 @@ Currently working on:
 - Raid System
 - Cuff System
 - Webhook Sender
+- Compass UI
+- Topbar
 - Vehicle Spawner 
 - Server List
+- Report player System
+- Anti Cheat
+- Anti Exploit
 ```

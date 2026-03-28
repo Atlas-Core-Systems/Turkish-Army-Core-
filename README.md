@@ -11,16 +11,20 @@
 ```md
 # Services
 + Escape Menu Camera Blur
-+ Shift to Sprint
++ Shift to Sprint 
 + TP Service
 + No Tool Service
 + Auto Team Service
 + Auto Uniform Service
 + License Service
-+ 
++ Leaderstats Service (Rank, Division, Money/Points)
++ Collidable Character
++ Cleanup Character (Remove Meshes)
+
 
 # Systems
 + Loading Screen
++ Nametag System
 
 Currently working on:
 - Prevent Ban All
@@ -34,5 +38,8 @@ Currently working on:
 - Vehicle Chasis
 - Boat Chasis
 - Raid System
+- Cuff System
+- Webhook Sender
+- Vehicle Spawner 
 - Server List
 ```

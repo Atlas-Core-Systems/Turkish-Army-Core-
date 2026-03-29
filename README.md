@@ -26,6 +26,9 @@
 + Loading Screen
 + Nametag System
 
+# Packages
++ ProximityPromptCustomizer
+
 Currently working on:
 - Prevent Ban All
 - Main Menu System

@@ -1,25 +1,31 @@
 # Turkish Army FRAMEWORK v2 CHANGELOG
 
 # VERSION 
-`v.2.0.0_TR`
+`v.2.2.0_TR`
 
 # TESTING PLACE 
-`Soon`
+`[Open](https://www.roblox.com/games/100011157274713/Turkish-Army-FRAMEWORK-v2)`
 
 # INCLUDES
 
 ```md
+# Packages
++ ProximityPromptCustomizer
++ TopbarPlus
++ Slider
+
 # Services
-+ Escape Menu Camera Blur
-+ Shift to Sprint 
-+ TP Service
-+ No Tool Service
-+ Auto Team Service
-+ License Service
-+ Leaderstats Service (Rank, Division, Money/Points)
++ Blur on Escape
++ Favorite Game
++ Shift Sprint
+
++ Auto Team
++ Auto Uniform
++ Blocky Rig
 + Collidable Character
-+ Cleanup Character (Remove Meshes)
-+ Webhook Sender
++ Leaderboard (Rank, Division, Money)
++ License Service
++ No Tool Service
 
 # Systems
 (need to be integrated in new Framework v2)

@@ -13,11 +13,14 @@
 + ProximityPromptCustomizer
 + TopbarPlus
 + Slider
++ ProfileStore
++ NumberFormatter
 
 # Services
 + Blur on Escape
 + Favorite Game
 + Shift Sprint
++ Money Indicator
 
 + Auto Team
 + Auto Uniform
@@ -29,12 +32,10 @@
 
 # Systems
 (need to be integrated in new Framework v2)
-# Packages
-+ ProximityPromptCustomizer
+
 
 # Currently working on:
   (Priorized)
-- Auto Uniform Service (works only on client => Problem: client cant acces mainConfig in Server )    [+]
 - Main Menu System                    	                                                             [+] 
 - Topbar                                                                                             [+]
 - Loading Screen                                                                                     [+]

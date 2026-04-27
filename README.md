@@ -8,13 +8,17 @@
 
 # CHANGELOGS
 ```md
-# core v2.2.4- [27/04/26]
+# core v2.2.3- [27/04/26]
 + WebhookSender Function
 + Device Detector Function
 
-# core v2.2.3- [24/04/26]
-+ Clean Client Server Seperation
-+ Secruity Fixes
+# core v2.2.0- [23/04/26]
++ Rework Folder Structure
++ Path Seperation
+
+# core v2.2.0- [21/04/26]
++ Clean Client Server Separation
++ Security Fixes
 
 ```
 # INCLUDES

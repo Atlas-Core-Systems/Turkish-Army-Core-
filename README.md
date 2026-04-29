@@ -1,7 +1,7 @@
 # Turkish Army FRAMEWORK v2 CHANGELOG
 
 # VERSION 
-`v.2.2.4_TR`
+`v.2.2.3_TR`
 
 # TESTING PLACE 
 [Open Place](https://www.roblox.com/games/100011157274713/Turkish-Army-FRAMEWORK-v2)
@@ -9,16 +9,16 @@
 # CHANGELOGS
 ```md
 
-# core v2.2.4 - [28/04/26]
+# core v2.2.3 - [28/04/26]
 ## (added)
 + Notification Function (Client / Server, Standart and Custom Notifications)
 
-# core v2.2.3 - [25/04/26]
+# core v2.2.2 - [25/04/26]
 ## (added)
 + WebhookSender Function
 + Device Detector Function
 
-# core v2.2.0 - [23/04/26]
+# core v2.2.1 - [23/04/26]
 ## (changed)
 + Rework Folder Structure
 + Path Structure Rework

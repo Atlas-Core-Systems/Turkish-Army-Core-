@@ -14,9 +14,10 @@
 + Notification Function (Client / Server, Standart and Custom Notifications)
 
 # core v2.2.2 - [25/04/26]
-## (added)
+## (added, changed)
 + WebhookSender Function
 + Device Detector Function
++ fixed output seperation
 
 # core v2.2.1 - [23/04/26]
 ## (changed)

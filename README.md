@@ -60,8 +60,7 @@
 + Chatlogs (Webhooks)
 
 # Systems
-(need to be integrated in new Framework v2)
-
+- Obstacle Course System
 
 # Currently working on:
   (Priorized)

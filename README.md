@@ -88,7 +88,8 @@
 - Anti Exploit
 - Cuff System
 - Interaction System with Authorization levels
-- Plane & Helicopter Chasis
-- Vehicle Chasis
-- Boat Chasis
+- Plane & Helicopter Chassis
+- Bike & Bicycle Chassis
+- Vehicle Chassis
+- Boat Chassis
 ```

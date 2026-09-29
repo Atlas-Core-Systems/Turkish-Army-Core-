@@ -61,6 +61,7 @@
 
 # Systems
 - Obstacle Course System
+- Vehicle Chassis
 
 # Currently working on:
   (Priorized)
@@ -90,6 +91,5 @@
 - Interaction System with Authorization levels
 - Plane & Helicopter Chassis
 - Bike & Bicycle Chassis
-- Vehicle Chassis
 - Boat Chassis
 ```

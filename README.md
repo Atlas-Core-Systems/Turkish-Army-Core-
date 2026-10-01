@@ -64,6 +64,7 @@
 - Vehicle Chassis
 - Bike & Bicycle Chassis
 - Raid System
+- TrafficStop System
 
 # Currently working on:
   (Priorized)
@@ -71,9 +72,7 @@
 - Topbar                                                                                             [+]
 - Loading Screen                                                                                     [+]
 - Nametag System                                                                                     [+]
-- TrafficStop System                                                                                 [+]
                                                                           
-- Compass UI
 - Metro System
 - HUD (Teamchanger, Gamepassshop, Settings)
 

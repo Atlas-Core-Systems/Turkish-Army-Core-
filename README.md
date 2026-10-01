@@ -82,7 +82,7 @@
   (Non Priorized)
 - Report player System
 - Server List
-- Soft Shutdown System
+- Soft Shutdown System (optional cause roblox update migrate to new update)
 - Custom Admin System (based on cmdr)
 - Vehicle Spawner 
 

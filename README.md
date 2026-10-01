@@ -63,6 +63,7 @@
 - Obstacle Course System
 - Vehicle Chassis
 - Bike & Bicycle Chassis
+- Raid System
 
 # Currently working on:
   (Priorized)
@@ -74,7 +75,6 @@
                                                                           
 - Compass UI
 - Metro System
-- Raid System
 - HUD (Teamchanger, Gamepassshop, Settings)
 
 

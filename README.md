@@ -65,6 +65,7 @@
 - Bike & Bicycle Chassis
 - Raid System
 - TrafficStop System
+- Cuff System
 
 # Currently working on:
   (Priorized)
@@ -87,7 +88,6 @@
 
 - Anti Cheat
 - Anti Exploit
-- Cuff System
 - Interaction System with Authorization levels
 - Plane & Helicopter Chassis
 - Boat Chassis

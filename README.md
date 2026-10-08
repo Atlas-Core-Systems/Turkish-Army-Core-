@@ -9,6 +9,10 @@
 # CHANGELOGS
 ```md
 
+# core v2.2.4 - [8/10/26]
+## (added)
++ Better Cross Remote Handling
+
 # core v2.2.3 - [28/04/26]
 ## (added)
 + Notification Function (Client / Server, Standart and Custom Notifications)
